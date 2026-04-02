@@ -8,12 +8,14 @@
 
 <!-- 💡 Please tick and write 'N/A' with a reason if a checklist item below is not applicable 💡 -->
 
-- [ ] Please describe the application briefly. < Please insert the description here >
-- [ ] Please attach a video showcasing the application on Linux using the Flatpak. < Please insert the video here >
-- [ ] The Flatpak ID follows all the rules listed in the [Application ID requirements][appid].
-- [ ] I have read and followed all the [Submission requirements][reqs] and the [Submission guide][reqs2] and I agree to them.
-- [ ] I am an _(please keep whichever is applicable and remove the rest)_ author/developer/upstream contributor to the project.
-      If not, I contacted upstream developers about this submission. **Link:**
+- [X] Please describe the application briefly.  
+      IAWrapper is an unofficial desktop wrapper for web-based AI services such as ChatGPT, Claude, Grok, DeepSeek and Qwen.  
+      It provides isolated sessions per provider, provider-specific desktop launchers, icons, and desktop integration through a single Electron-based application.
+- [X] Please attach a video showcasing the application on Linux using the Flatpak.  
+      Video: https://github.com/jgomezbau/IAWrapper/blob/6b8dd0bc31efb2a7638bf288f5443ceccb4ec44c/flatpak/media/iawrapper-flatpak-demo.webm
+- [X] The Flatpak ID follows all the rules listed in the [Application ID requirements][appid].
+- [X] I have read and followed all the [Submission requirements][reqs] and the [Submission guide][reqs2] and I agree to them.
+- [X] I am an author contributor to the project.
 
 <!-- 💡 Please mention below the GitHub usernames of any additional maintainers needed (if any) 💡 -->
 
